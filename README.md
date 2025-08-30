@@ -6,7 +6,7 @@ Pharos OpenFi Bot auto supply &amp; Borrow all features
 | ✅ Multi-wallet                  | Dapat menangani banyak wallet dalam satu file `accounts.txt`          |
 | ✅ All Features                  | Auto Supply & Borrow, Withdraw & Repay                                   |
 | ✅ Delay acak transaksi          | Menghindari pola bot yang jelas terlihat                                 |
-| ✅ Estimasi & cek saldo otomatis | Tidak akan register jika saldo token tidak cukup                         |
+| ✅ Estimasi & cek saldo otomatis | Tidak akan supply jika saldo token tidak cukup                           |
 | ✅ Retry otomatis jika gagal     | Menangani error koneksi dengan retry                                     |
 | ✅ Auto schedule harian          | Script akan berjalan setiap 24 jam otomatis tanpa perlu dijalankan ulang |
 
